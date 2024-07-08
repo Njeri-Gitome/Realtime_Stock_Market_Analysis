@@ -8,5 +8,6 @@ To build a real-time stock tracking application using Confluent Kafka and Yahoo 
 Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL
 
 ## Project Workflow
-![image](https://github.com/Njeri-Gitome/Realtime_Stock_Market_Analysis/assets/74792815/642c56c6-8361-49c6-bd2d-ed8909bf6635)
+![image](https://github.com/Njeri-Gitome/Realtime_Stock_Market_Analysis/assets/74792815/3c41b2be-4275-45cd-b49f-6cf0dd123cb0)
+
 
